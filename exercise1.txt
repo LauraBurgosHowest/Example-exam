@@ -1,0 +1,4 @@
+#mkdir database_exam
+#cd database_exam
+#touch exercise1.txt
+#git commit -m
